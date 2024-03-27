@@ -58,34 +58,37 @@ We are excited to announce that the CanSat Air Quality Monitoring System is an o
 
 We are currently seeking experts in various fields to contribute their knowledge and skills to the project. We welcome individuals with expertise in the following areas:
 
-    Physicists: Knowledge of atmospheric physics and principles of remote sensing.
+Physicists: Knowledge of atmospheric physics and principles of remote sensing.
     
-    Chemists: Understanding of air quality pollutants, chemical analysis techniques, and sensor calibration.
+Chemists: Understanding of air quality pollutants, chemical analysis techniques, and sensor calibration.
     
-    AI Specialists: Experience in machine learning, data analysis, and algorithm development.
+AI Specialists: Experience in machine learning, data analysis, and algorithm development.
     
-    Environmental Scientists: Expertise in environmental monitoring, pollution analysis, and data interpretation.
+Environmental Scientists: Expertise in environmental monitoring, pollution analysis, and data interpretation.
     
-    Software Developers: Proficiency in web development, cloud computing, and software engineering.
+Software Developers: Proficiency in web development, cloud computing, and software engineering.
     
-    Data Scientists: Skills in data preprocessing, feature engineering, and predictive modeling.
+Data Scientists: Skills in data preprocessing, feature engineering, and predictive modeling.
     
-    Electrical Engineers: Familiarity with sensor integration, circuit design, and hardware development.
+Electrical Engineers: Familiarity with sensor integration, circuit design, and hardware development.
     
-    Meteorologists: Understanding of meteorological data, weather patterns, and atmospheric dynamics.
+Meteorologists: Understanding of meteorological data, weather patterns, and atmospheric dynamics.
 
-9. How to Get Involved:
+and many more, if you have different set of skills then ones above feel free to reach out
 
-If you are interested in contributing to the CanSat Air Quality Monitoring System project, please visit our GitHub repository [link] to explore the codebase, open issues, and contribute your expertise. You can also join our community forums [link] to connect with other contributors, ask questions, and share ideas.
 
-10. Future Plans:
+9. Future Plans:
 
 Once the CanSat Air Quality Monitoring System project gains momentum and reaches a stable state with the launch of version 1.0 of the data standard, cloud infrastructure, and web application, we have exciting plans for further development and expansion.
 
-11. CanSat Kits:
+10. CanSat Kits:
 
 In the future, we envision creating CanSat kits that are specifically designed to meet the minimum requirements for launch and compatibility with our standardized data collection protocols. These kits will provide enthusiasts, educational institutions, and research organizations with accessible and standardized hardware for conducting CanSat missions focused on air quality monitoring. By offering these kits for sale, we aim to democratize access to space technology and foster innovation in environmental science and space exploration.
 
-12. Collaboration Opportunities:
+11. Collaboration Opportunities:
 
 We welcome collaboration with manufacturers, educators, and enthusiasts interested in contributing to the development and distribution of CanSat kits. Together, we can create a vibrant ecosystem of CanSat enthusiasts and researchers dedicated to advancing air quality monitoring and space technology.
+
+Contanct email
+
+cspd.dev@gmail.com
