@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from utils.db_functions import store_measurement, store_location
+from utils.db_functions import store_measurement, store_location, get_measurements
 from config.app_config import web_app
 from utils.db_service import init_db, init_db_and_create_tables
 
@@ -44,3 +44,17 @@ def store_location_route():
         return jsonify({'message': 'Location stored successfully'}), 201
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+    
+@web_app.route('/api/measurements', methods=['GET'])
+def get_measurements_route():
+    interval = request.args.get('interval', '1h')  # Default interval is 1 hour
+    session = init_db()
+    try:
+        measurements_data = get_measurements(session, interval)
+        return jsonify(measurements_data), 200
+    except ValueError as e:
+        return jsonify({"error": str(e)}), 400
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    finally:
+        session.close()
